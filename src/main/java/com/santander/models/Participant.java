@@ -1,4 +1,4 @@
-package com.santander.santander.models;
+package com.santander.models;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

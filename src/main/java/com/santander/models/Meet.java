@@ -1,4 +1,4 @@
-package com.santander.santander.models;
+package com.santander.models;
 
 import java.util.Date;
 import java.util.List;
